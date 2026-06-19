@@ -1,0 +1,11 @@
+id,full_name,email,phone,credit_card_number,ssn,date_of_birth,address
+1,John Michael Doe,john.doe@example.com,+1-555-123-4567,4532718293810293,078-05-1120,1985-03-15,123 Main Street Apt 4B New York NY 10001
+2,Jane Elizabeth Smith,jane.smith@example.com,+1-555-987-6543,4111111111111111,219-09-9999,1990-07-22,456 Oak Avenue Suite 200 Los Angeles CA 90001
+3,Robert James Johnson,robert.johnson@example.com,+1-555-456-7890,5500000000000004,323-45-6789,1978-11-30,789 Pine Road Unit 12 Chicago IL 60601
+4,Maria Garcia Lopez,maria.garcia@example.com,+1-555-321-0987,340000000000009,468-12-3456,1995-01-08,321 Elm Boulevard Floor 3 Houston TX 77001
+5,David Lee Williams,david.williams@example.com,+1-555-654-3210,6011000000000004,512-67-8901,1982-09-17,654 Cedar Lane Apartment 7A Miami FL 33101
+6,Emily Rose Brown,emily.brown@example.com,+1-555-789-0123,4916338506082832,601-23-4567,1988-12-25,987 Birch Court Building B Seattle WA 98101
+7,Michael Anthony Davis,michael.davis@example.com,+1-555-012-3456,4024007148673576,700-89-0123,1975-06-14,147 Maple Drive Suite 500 Denver CO 80201
+8,Sarah Kim Wilson,sarah.wilson@example.com,+1-555-234-5678,5425233430109903,801-34-5678,1993-04-02,258 Walnut Street Unit 9C Boston MA 02101
+9,James Patrick Taylor,james.taylor@example.com,+1-555-345-6789,4716108999716531,900-78-9012,1980-08-19,369 Spruce Avenue Apt 15 San Francisco CA 94101
+10,Lisa Marie Anderson,lisa.anderson@example.com,+1-555-456-0123,4532015112830366,123-45-6789,1997-02-28,480 Chestnut Place Floor 2 Atlanta GA 30301
